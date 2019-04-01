@@ -1,1 +1,1 @@
-# Bechir Sibel PracticalTest01Var10
+# PracticalTest01Var10
